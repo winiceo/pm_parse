@@ -1,0 +1,2 @@
+{"error":{"code":107,"message":"incrementing must provide a number"},"level":"error","message":"Error generating response. ParseError { code: 107, message: 'incrementing must provide a number' }","timestamp":"2017-03-05T07:48:04.224Z"}
+{"code":107,"message":"incrementing must provide a number","level":"error","timestamp":"2017-03-05T07:48:04.230Z"}
