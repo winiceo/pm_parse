@@ -10,8 +10,10 @@
   "license": "MIT",
   "dependencies": {
     "express": "~4.11.x",
+    "habitat": "^3.1.2",
     "kerberos": "~0.0.x",
     "parse": "~1.8.0",
+    "parse-dashboard": "^1.0.25",
     "parse-server": "*"
   },
   "scripts": {

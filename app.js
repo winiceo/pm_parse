@@ -3,6 +3,6 @@
  */
 
 
-const env = require(__dirname+"/environment");
+const env = require("./environment");
 const server=require("./index")
 server()
